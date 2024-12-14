@@ -11,3 +11,6 @@ The file gdl_three.py should contain the sum total of new constructs and old par
 ```gdl_three.py``` is the base code to be able to run the basketball simulation based on PyMC
 
 ```basketball.ipynb``` uses the contents of ```gdl_three.py``` to build a basketball game that satisfies the requirements of both GDLs and enables Bayesian inference in the game tree.
+
+For now please see: https://colab.research.google.com/drive/1LQNiRD7bxpWopqROKnhbMY4VnKZ9RxbC?usp=sharing
+
